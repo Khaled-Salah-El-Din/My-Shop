@@ -1,0 +1,6 @@
+/.vscode
+config/database.php
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+desktop.ini
