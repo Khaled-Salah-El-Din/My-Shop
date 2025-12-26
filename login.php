@@ -13,6 +13,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Login</title>
+  <link rel="shortcut icon" href="img/favicon.png">
+
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Bootstrap CSS -->
@@ -32,7 +34,7 @@
     <!-- Header -->
     <header class="header bg-white">
         <div class="container px-0 px-lg-3">
-            <nav class="navbar navbar-expand-lg navbar-light py-4 px-lg-0"><a class="navbar-brand" href="index.php"><span class="font-weight-bold text-uppercase text-dark">Boutique</span></a>
+            <nav class="navbar navbar-expand-lg navbar-light py-4 px-lg-0"><a class="navbar-brand" href="index.php"><span class="font-weight-bold text-uppercase text-dark">My Shop</span></a>
         </nav>
     </div>
     </header>

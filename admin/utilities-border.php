@@ -15,7 +15,8 @@ include "includes/sessionstart.php";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Border Utilities</title>
+    <title>Border Utilities</title>
+    <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
