@@ -1,0 +1,82 @@
+MIT License
+
+Copyright (c) 2025 Khaled Salah El-Din
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the conditions below.
+
+────────────────────────────────────────────────────────────
+IMPORTANT NOTICE ABOUT THIRD-PARTY ASSETS
+────────────────────────────────────────────────────────────
+
+This repository contains third-party frontend templates and assets that are
+NOT covered by the MIT License below.
+
+The MIT License applies ONLY to:
+- Custom PHP backend code
+- Custom JavaScript logic
+- Custom CSS written by the author
+- Database schema and SQL files
+- Project structure and configuration files
+- Any files not explicitly listed as third-party below
+
+────────────────────────────────────────────────────────────
+THIRD-PARTY COMPONENTS AND LICENSES
+────────────────────────────────────────────────────────────
+
+1. Bootstrap Temple Ecommerce Template
+   Source: https://bootstraptemple.com
+   License: Attribution-required commercial license
+
+   License summary:
+   - Free for personal or client use WITH attribution
+   - Redistribution of the template or derivative works is NOT permitted
+   - Attribution must remain unless an attribution-free license is purchased
+
+   Files related to this template remain the property of Bootstrap Temple
+   and are included in this repository for demonstration purposes only.
+
+2. Start Bootstrap Admin Dashboard Template
+   License: MIT License
+   Copyright (c) 2013–2021 Start Bootstrap LLC
+
+   The MIT license text for this component is reproduced below:
+
+   ------------------------------------------------------------
+   The MIT License (MIT)
+
+   Copyright (c) 2013–2021 Start Bootstrap LLC
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   ------------------------------------------------------------
+
+────────────────────────────────────────────────────────────
+MIT LICENSE (APPLIES TO ORIGINAL WORK ONLY)
+────────────────────────────────────────────────────────────
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original portions of this software and associated documentation files,
+to deal in those portions of the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the original work.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
