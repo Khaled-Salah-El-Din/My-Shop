@@ -1,6 +1,6 @@
 # My Shop – PHP E-Commerce Website
 
-A small e-commerce web application built with **PHP, MySQL, HTML, CSS, and JavaScript**. You can click the headings icon to go to any sections, such as setup to locally run the site, or the screenshots section
+A small e-commerce web application built with **PHP, MySQL, HTML, CSS, and JavaScript**. You can click the headings icon to go to any sections, such as the setup to locally run the site, or the screenshots section
 
 This project demonstrates:
 - PHP backend development
@@ -19,9 +19,9 @@ This project demonstrates:
 - Customer account, registration and login
 - Shopping cart logic
 - Product detail page, that also suggests related products
-- Contact page to send feedback to site admins
+- Contact page (in the site's footer) to send feedback to site admins
 - Admin-side dashboard for user-friendly database interactions and site management
-- Object-Ortiented Programming with a PDO-based database abstraction using my "Database" class
+- Object-Oriented Programming with a PDO-based database abstraction using my "Database" class
 - Elegant and responsive UI
 
 ---
@@ -30,7 +30,7 @@ This project demonstrates:
 
 - PHP
 - MySQL
-- HTML, CSS, JavaScript, AJAX, jquery
+- HTML, CSS, JavaScript, AJAX, jQuery
 - Bootstrap
 - Git, GitHub
 
@@ -58,7 +58,7 @@ To install and run this project locally, having the following is needed:
 
 ---
 
-### 2. Naviage to XAMPP's web root
+### 2. Navigate to XAMPP's web root
 
 - Click the Explorer button in the control panel
 - Enter "htdocs"
@@ -122,11 +122,64 @@ notepad config/database.php
 
 ### 5. Open the website
 
+Visit the store homepage with:
+
 ```bash
    start http://localhost/my-shop-demo
 ```
+
+You may also visit the admin dashboard with:
+
+```bash
+   start http://localhost/my-shop-demo/admin
+```
+
+And login with username "ahmad" and password "123" for testing and demo purposes
 
 ---
 
 ## Screenshots
 
+![Storefront's Homepage](screenshots/storefront-homepage.png)
+<p style="text-align:center;"><small>Storefront's Homepage</small></p>
+
+![Storefront's Products](screenshots/storefront-products.png)
+<p style="text-align:center;"><small>Storefront's Products</small></p>
+
+![Storefront's Details](screenshots/storefront-detail.png)
+<p style="text-align:center;"><small>Storefront's Product Details</small></p>
+
+![Storefront's Cart](screenshots/storefront-cart.png)
+<p style="text-align:center;"><small>Storefront's Cart</small></p>
+
+![Storefront's Checkout](screenshots/storefront-checkout.png)
+<p style="text-align:center;"><small>Storefront's Checkout</small></p>
+
+![Storefront's Contact Us](screenshots/storefront-Contact.png)
+<p style="text-align:center;"><small>Storefront's Contact Us</small></p>
+
+![Storefront's Login](screenshots/storefront-login.png)
+<p style="text-align:center;"><small>Storefront's Login</small></p>
+
+![Dashboard's Products](screenshots/dashboard-products.png)
+<p style="text-align:center;"><small>Dashboard's Products</small></p>
+
+![Dashboard's Product Addition](screenshots/dashboard-product-add.png)
+<p style="text-align:center;"><small>Dashboard's Product Addition</small></p>
+
+![Dashboard's Product Editing](screenshots/dashboard-product-edit.png)
+<p style="text-align:center;"><small>Dashboard's Product Editing</small></p>
+
+![Dashboard's Users](screenshots/dashboard-users.png)
+<p style="text-align:center;"><small>Dashboard's Users</small></p>
+
+![Dashboard's Messages From Customers](screenshots/dashboard-messages.png)
+<p style="text-align:center;"><small>Dashboard's Messages From Customers</small></p>
+
+## Project Scope & Disclaimer
+
+This project was built for learning and portfolio demonstration purposes only.
+
+- Product data, prices, and user accounts are dummy/sample data
+- No real payment processing is implemented
+- Authentication and security are suitable for demo use only
