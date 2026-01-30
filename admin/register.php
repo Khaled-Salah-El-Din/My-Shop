@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Register</title>
+    <title>Register | My Shop Dashboard</title>
     <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom fonts for this template-->

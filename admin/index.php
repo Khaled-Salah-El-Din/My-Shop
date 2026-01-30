@@ -16,7 +16,7 @@ require_once "fun/Database.php";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Login</title>
+    <title>Login | My Shop Dashboard</title>
     <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom fonts for this template-->

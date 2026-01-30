@@ -10,7 +10,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Register</title>
+  <title>Register | My Shop</title>
   <link rel="shortcut icon" href="img/favicon.png">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">

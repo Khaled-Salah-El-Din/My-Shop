@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Forgot Password</title>
+    <title>Forgot Password | My Shop Dashboard</title>
     <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom fonts for this template-->

@@ -15,7 +15,7 @@ include "includes/sessionstart.php";
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Other Utilities</title>
+    <title>Other Utilities | My Shop Dashboard</title>
     <link rel="shortcut icon" href="img/favicon.png">
 
     <!-- Custom fonts for this template-->
